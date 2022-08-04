@@ -1,4 +1,4 @@
-# GMS Doze (Optimizado y mejorado, basado en GMS Universal Doze 1.8.6/1.8.5) - Bloquea Find My Device
+# GMS Doze (Optimizado y mejorado, basado en GMS Universal Doze 1.8.6/1.8.5) - Bloquea 'Find My Device'
 
 ---
 ## Vista rápida
@@ -38,7 +38,7 @@ Hay una línea escrita `Whitelist (except idle) system apps:` y si la línea `co
 
 ---
 
-# GMS Doze (Optimized and improved, based on GMS Universal Doze 1.8.6/1.8.5) - Lock Find My Device
+# GMS Doze (Optimized and improved, based on GMS Universal Doze 1.8.6/1.8.5) - Lock 'Find My Device'
 
 ---
 ## Quick View
