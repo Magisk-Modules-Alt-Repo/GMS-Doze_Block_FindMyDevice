@@ -22,7 +22,7 @@ Hay una línea escrita `Whitelist (except idle) system apps:` y si la línea `co
 > dumpsys deviceidle
 ```
 
-# Descarga
+## Descarga
 - https://github.com/CrazyBytesVE/GMS-Doze-BlockFindMyDevice/releases
 
 ## Créditos
@@ -59,7 +59,7 @@ There is a line written `Whitelist (except idle) system apps:` and if the line `
 > dumpsys deviceidle
 ```
 
-# Download
+## Download
 - https://github.com/CrazyBytesVE/GMS-Doze-BlockFindMyDevice/releases
 
 ## Credits
