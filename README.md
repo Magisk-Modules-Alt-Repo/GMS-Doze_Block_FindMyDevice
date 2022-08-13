@@ -5,10 +5,10 @@
 - Bloquea Find My Device, permite mayor ahorro de energía.
 - Soporte API 23 o posterior.
 - Admite instalaciones de Magisk Live o Custom Recovery.
-- 
+
 ## Instrucciones
 - Instalar el zip descargado desde el apartado Releases en Magisk y reiniciar.
-- 
+
 ## Solución de problemas
 - Línea de comandos para verificar la optimización (con el complemento instalado):
 ```
